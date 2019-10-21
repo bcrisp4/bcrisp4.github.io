@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on ben_crisp</title>
+    <link>https://thecrisp.io/tags/</link>
+    <description>Recent content in Tags on ben_crisp</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Oct 2019 20:32:01 +0100</lastBuildDate>
+    
+	<atom:link href="https://thecrisp.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ci</title>
+      <link>https://thecrisp.io/tags/ci/</link>
+      <pubDate>Mon, 21 Oct 2019 20:32:01 +0100</pubDate>
+      
+      <guid>https://thecrisp.io/tags/ci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github</title>
+      <link>https://thecrisp.io/tags/github/</link>
+      <pubDate>Mon, 21 Oct 2019 20:32:01 +0100</pubDate>
+      
+      <guid>https://thecrisp.io/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://thecrisp.io/tags/hugo/</link>
+      <pubDate>Mon, 21 Oct 2019 20:32:01 +0100</pubDate>
+      
+      <guid>https://thecrisp.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>travis</title>
+      <link>https://thecrisp.io/tags/travis/</link>
+      <pubDate>Mon, 21 Oct 2019 20:32:01 +0100</pubDate>
+      
+      <guid>https://thecrisp.io/tags/travis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

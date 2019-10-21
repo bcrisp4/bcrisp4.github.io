@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://thecrisp.io/post/deploy-hugo-blog-travis/</loc>
+    <lastmod>2019-10-21T20:32:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thecrisp.io/post/</loc>
+    <lastmod>2019-10-21T20:32:01+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://thecrisp.io/tags/</loc>
+    <lastmod>2019-10-21T20:32:01+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://thecrisp.io/</loc>
+    <lastmod>2019-10-21T20:32:01+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://thecrisp.io/tags/ci/</loc>
+    <lastmod>2019-10-21T20:32:01+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://thecrisp.io/tags/github/</loc>
+    <lastmod>2019-10-21T20:32:01+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://thecrisp.io/tags/hugo/</loc>
+    <lastmod>2019-10-21T20:32:01+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://thecrisp.io/tags/travis/</loc>
+    <lastmod>2019-10-21T20:32:01+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://thecrisp.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
